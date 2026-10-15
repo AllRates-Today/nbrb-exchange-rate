@@ -42,40 +42,40 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-14** by National Bank of the Republic of Belarus — 30 rates. Updated 2026-10-14.
+Published **2026-10-15** by National Bank of the Republic of Belarus — 30 rates. Updated 2026-10-15.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | BYN | reference | 0.81955 |
-| AMD | BYN | reference | 0.00831 |
-| AUD | BYN | reference | 2.0987 |
-| BRL | BYN | reference | 0.60352 |
-| CAD | BYN | reference | 2.1111 |
-| CHF | BYN | reference | 3.6136 |
-| CNY | BYN | reference | 0.45057 |
-| CZK | BYN | reference | 0.138149 |
-| DKK | BYN | reference | 0.45019 |
-| EUR | BYN | reference | 3.3652 |
-| GBP | BYN | reference | 3.9846 |
-| INR | BYN | reference | 0.031535 |
-| IRR | BYN | reference | 0.000001691 |
-| ISK | BYN | reference | 0.024708 |
-| JPY | BYN | reference | 0.019043 |
-| KGS | BYN | reference | 0.034417 |
-| KWD | BYN | reference | 9.653 |
-| KZT | BYN | reference | 0.0066937 |
-| MDL | BYN | reference | 0.16749 |
-| NOK | BYN | reference | 0.31512 |
-| NZD | BYN | reference | 1.688 |
-| PLN | BYN | reference | 0.76845 |
-| RUB | BYN | reference | 0.036006 |
-| SEK | BYN | reference | 0.3011 |
-| SGD | BYN | reference | 2.3514 |
+| AED | BYN | reference | 0.81996 |
+| AMD | BYN | reference | 0.0083468 |
+| AUD | BYN | reference | 2.111 |
+| BRL | BYN | reference | 0.59928 |
+| CAD | BYN | reference | 2.1188 |
+| CHF | BYN | reference | 3.6128 |
+| CNY | BYN | reference | 0.45131 |
+| CZK | BYN | reference | 0.138349 |
+| DKK | BYN | reference | 0.45085 |
+| EUR | BYN | reference | 3.3706 |
+| GBP | BYN | reference | 3.9951 |
+| INR | BYN | reference | 0.031564 |
+| IRR | BYN | reference | 0.000001692 |
+| ISK | BYN | reference | 0.024746 |
+| JPY | BYN | reference | 0.019003 |
+| KGS | BYN | reference | 0.034435 |
+| KWD | BYN | reference | 9.6609 |
+| KZT | BYN | reference | 0.0066897 |
+| MDL | BYN | reference | 0.16823 |
+| NOK | BYN | reference | 0.31731 |
+| NZD | BYN | reference | 1.6918 |
+| PLN | BYN | reference | 0.77142 |
+| RUB | BYN | reference | 0.03601 |
+| SEK | BYN | reference | 0.30216 |
+| SGD | BYN | reference | 2.3489 |
 | TRY | BYN | reference | 0.06097 |
-| UAH | BYN | reference | 0.066737 |
-| USD | BYN | reference | 3.0098 |
-| VND | BYN | reference | 0.000116143 |
-| XDR | BYN | reference | 4.073 |
+| UAH | BYN | reference | 0.066879 |
+| USD | BYN | reference | 3.0113 |
+| VND | BYN | reference | 0.000116282 |
+| XDR | BYN | reference | 4.0731 |
 
 Source: [Official rates published by NBRB, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/nbrb/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->

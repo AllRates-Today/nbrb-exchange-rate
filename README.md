@@ -47,40 +47,40 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-28 by National Bank of the Republic of Belarus — 30 rates. Updated 2026-10-28.</summary>
+<summary>Table as text: published 2026-10-29 by National Bank of the Republic of Belarus — 30 rates. Updated 2026-10-29.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | BYN | reference | 0.80207 |
-| AMD | BYN | reference | 0.008148 |
-| AUD | BYN | reference | 2.0696 |
-| BRL | BYN | reference | 0.54482 |
-| CAD | BYN | reference | 2.1012 |
-| CHF | BYN | reference | 3.5556 |
-| CNY | BYN | reference | 0.44178 |
-| CZK | BYN | reference | 0.134782 |
-| DKK | BYN | reference | 0.43903 |
-| EUR | BYN | reference | 3.2811 |
-| GBP | BYN | reference | 3.9222 |
-| INR | BYN | reference | 0.03091 |
-| IRR | BYN | reference | 0.000001621 |
-| ISK | BYN | reference | 0.024059 |
-| JPY | BYN | reference | 0.018674 |
-| KGS | BYN | reference | 0.033683 |
-| KWD | BYN | reference | 9.4744 |
-| KZT | BYN | reference | 0.0064613 |
-| MDL | BYN | reference | 0.1631 |
-| NOK | BYN | reference | 0.31632 |
-| NZD | BYN | reference | 1.6764 |
-| PLN | BYN | reference | 0.7448 |
-| RUB | BYN | reference | 0.036597 |
-| SEK | BYN | reference | 0.2957 |
-| SGD | BYN | reference | 2.2982 |
-| TRY | BYN | reference | 0.05916 |
-| UAH | BYN | reference | 0.064378 |
-| USD | BYN | reference | 2.9456 |
-| VND | BYN | reference | 0.000114018 |
-| XDR | BYN | reference | 3.9907 |
+| AED | BYN | reference | 0.80212 |
+| AMD | BYN | reference | 0.0081902 |
+| AUD | BYN | reference | 2.0704 |
+| BRL | BYN | reference | 0.55062 |
+| CAD | BYN | reference | 2.0952 |
+| CHF | BYN | reference | 3.5479 |
+| CNY | BYN | reference | 0.44231 |
+| CZK | BYN | reference | 0.134491 |
+| DKK | BYN | reference | 0.43849 |
+| EUR | BYN | reference | 3.2771 |
+| GBP | BYN | reference | 3.9131 |
+| INR | BYN | reference | 0.03092 |
+| IRR | BYN | reference | 0.000001586 |
+| ISK | BYN | reference | 0.024031 |
+| JPY | BYN | reference | 0.018663 |
+| KGS | BYN | reference | 0.033686 |
+| KWD | BYN | reference | 9.469 |
+| KZT | BYN | reference | 0.0064617 |
+| MDL | BYN | reference | 0.16366 |
+| NOK | BYN | reference | 0.31562 |
+| NZD | BYN | reference | 1.649 |
+| PLN | BYN | reference | 0.7433 |
+| RUB | BYN | reference | 0.036622 |
+| SEK | BYN | reference | 0.29618 |
+| SGD | BYN | reference | 2.2973 |
+| TRY | BYN | reference | 0.05911 |
+| UAH | BYN | reference | 0.064409 |
+| USD | BYN | reference | 2.9458 |
+| VND | BYN | reference | 0.000113929 |
+| XDR | BYN | reference | 3.9845 |
 
 </details>
 
@@ -245,6 +245,7 @@ The National Bank of the Republic of Belarus sets official Belarusian ruble exch
 
 - Publisher's own page: [Official exchange rates](https://www.nbrb.by/statistics/rates) · [www.nbrb.by](https://www.nbrb.by)
 - Publication: every business day; the exact schedule, freshness status and any current delay are on the [National Bank of the Republic of Belarus rates page](https://allratestoday.com/central-bank-rates-api/nbrb/)
+- In the API: usually by **11:25 UTC** (measured over the last 10 publications). Schedule a sync at or after that time and retry hourly until `rate_date` moves; every response carries the same figure as `available_by_utc` — see [when to poll](https://allratestoday.com/docs/#when-to-poll)
 - Values are stored unmodified, with the publisher's own `rate_date` on every row — see the [methodology](https://allratestoday.com/official-rates-methodology/)
 
 ## 🧭 Reading the numbers

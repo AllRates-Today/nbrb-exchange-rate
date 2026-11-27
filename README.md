@@ -32,40 +32,40 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-26 by National Bank of the Republic of Belarus — 30 rates. Updated 2026-11-26.</summary>
+<summary>Table as text: published 2026-11-27 by National Bank of the Republic of Belarus — 30 rates. Updated 2026-11-27.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AED | BYN | reference | 0.81865 |
-| AMD | BYN | reference | 0.0083405 |
-| AUD | BYN | reference | 1.9739 |
-| BRL | BYN | reference | 0.50967 |
-| CAD | BYN | reference | 2.1039 |
-| CHF | BYN | reference | 3.6032 |
-| CNY | BYN | reference | 0.45055 |
-| CZK | BYN | reference | 0.134495 |
-| DKK | BYN | reference | 0.44003 |
-| EUR | BYN | reference | 3.2888 |
-| GBP | BYN | reference | 3.9252 |
-| INR | BYN | reference | 0.032566 |
+| AED | BYN | reference | 0.81854 |
+| AMD | BYN | reference | 0.0083582 |
+| AUD | BYN | reference | 1.9933 |
+| BRL | BYN | reference | 0.51649 |
+| CAD | BYN | reference | 2.113 |
+| CHF | BYN | reference | 3.6066 |
+| CNY | BYN | reference | 0.4508 |
+| CZK | BYN | reference | 0.134974 |
+| DKK | BYN | reference | 0.44131 |
+| EUR | BYN | reference | 3.2983 |
+| GBP | BYN | reference | 3.9409 |
+| INR | BYN | reference | 0.032515 |
 | IRR | BYN | reference | 0.00000154 |
-| ISK | BYN | reference | 0.023971 |
-| JPY | BYN | reference | 0.018857 |
-| KGS | BYN | reference | 0.034382 |
-| KWD | BYN | reference | 9.63 |
-| KZT | BYN | reference | 0.006554 |
-| MDL | BYN | reference | 0.16309 |
-| NOK | BYN | reference | 0.30476 |
-| NZD | BYN | reference | 1.6393 |
-| PLN | BYN | reference | 0.73349 |
-| RUB | BYN | reference | 0.036572 |
-| SEK | BYN | reference | 0.29268 |
-| SGD | BYN | reference | 2.3266 |
-| TRY | BYN | reference | 0.05933 |
-| UAH | BYN | reference | 0.066282 |
-| USD | BYN | reference | 3.0065 |
-| VND | BYN | reference | 0.000116371 |
-| XDR | BYN | reference | 4.0378 |
+| ISK | BYN | reference | 0.024075 |
+| JPY | BYN | reference | 0.018879 |
+| KGS | BYN | reference | 0.034375 |
+| KWD | BYN | reference | 9.6134 |
+| KZT | BYN | reference | 0.0065659 |
+| MDL | BYN | reference | 0.16338 |
+| NOK | BYN | reference | 0.30668 |
+| NZD | BYN | reference | 1.6469 |
+| PLN | BYN | reference | 0.73634 |
+| RUB | BYN | reference | 0.036581 |
+| SEK | BYN | reference | 0.29412 |
+| SGD | BYN | reference | 2.3298 |
+| TRY | BYN | reference | 0.05932 |
+| UAH | BYN | reference | 0.066589 |
+| USD | BYN | reference | 3.0061 |
+| VND | BYN | reference | 0.000116369 |
+| XDR | BYN | reference | 4.0334 |
 
 </details>
 
